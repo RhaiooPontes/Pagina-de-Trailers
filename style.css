@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Shojumaru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+
+
+body{
+    background-image: url("https://i.pinimg.com/originals/c5/57/77/c557775ef31b32dbf4e1249c79f15592.jpg");
+    background-color: #B0C4DE ;
+    border-style: double;
+    border-color: white;
+    border-radius: 0,1em;
+}
+
+#page-title{
+    text-align: center;
+    margin: 5px 5px 5px;
+    padding: 5px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2em; 
+    color: #fff;
+     
+}
+
+#page-subtitle{
+    text-align: center;
+    margin-top: 3px;
+    padding: 5px;
+    font-family: 'Shojumaru', cursive;
+    font-size: 1em;
+    color: #fff;
+}
+
+.instagram-icon{
+    width: 40px;
+    position: absolute;
+    top: 450px;
+    right:50px;
+}
+
+.video-player{
+    position:absolute;
+	left:50%;
+	top: 50%;
+	margin-left: -500px;
+	margin-top: -120px;
+}
+
+.video-player2{
+    position:absolute;
+	left:50%;
+	top: 50%;
+	margin-left: -180px;
+	margin-top: -120px;
+}
+.video-player3{
+    position:absolute;
+	left:50%;
+	top: 50%;
+	margin-left: 150px;
+	margin-top: -120px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 460px;
+    right: 550px;
+  }
+
+  .direitos {
+    text-align: end;
+    margin-top: 360px;
+    margin-right: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
+    color: #fff;
+  }
